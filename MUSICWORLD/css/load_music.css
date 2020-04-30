@@ -1,0 +1,91 @@
+.music{
+  width: 96%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  box-shadow: 1px 1px 5px 3px black;
+  height: 80px;
+  border-radius: 5px;
+}
+
+.music_img{
+  width: 64px;
+  height: 64px;
+  float: left;
+  margin-left: 10px;
+  margin-top: 8px;
+}
+
+
+
+
+.music_data{
+  width: 80%;
+  height: 64px;
+  float: left;
+  margin-left: 10px;
+  margin-top: 8px;
+}
+
+.music_artist,.music_album,.music_size{
+  font-style: italic;
+  font-size: 13px;
+}
+.music_a_a_s{
+  float: left;
+  width: 90%;
+  height: 27px;
+  margin-top: 4px;
+}
+.music_title{
+  font-size:24px;
+  width: 95%;
+  height: 20px;
+  float: left;
+  margin-top: 2px;
+  margin-bottom: 14px;
+}
+
+.music_artist{
+  width: 40%;
+  height: 25px;
+  float: left;
+  margin-top: 1px;
+}
+
+.music_album{
+  width: 40%;
+  height: 25px;
+  float: left;
+  margin-left: 4px;
+  margin-top: 1px;
+}
+
+.music_size{
+  width: 12%;
+  height: 25px;
+  float: left;
+  margin-left: 4px;
+  margin-top: 1px;
+}
+
+.music_play{
+  width: 50%;
+  height: 32px;
+  float: left;
+  margin-left: 1px;
+  margin-top: 20px;
+}
+
+.xyz{
+  width: 80%;
+  font-size: 10px;
+  box-sizing: border-box;
+  height: 32px;
+}
+
+.play_music_name,.play_artist_name{
+	display:block;
+	margin-bottom:2px;
+	width: 100%;
+}

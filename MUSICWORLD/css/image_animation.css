@@ -1,0 +1,53 @@
+.img_sld{
+background: url(../img/index/top_artists/arijit.jpg);
+	height:160px;
+	width:500px;
+	animation: slide 80s infinite;
+	background-size:cover;
+
+}
+@keyframes slide{
+	10%{
+		background: url(../img/index/top_artists/anupam.jpg);
+		background-size:cover;
+	}
+	20%{
+		background: url(../img/index/top_artists/atif.jpg);
+		background-size:cover;
+	}
+	30%{
+		background: url(../img/index/top_artists/kishor.jpg);
+		background-size:cover;
+	}
+	40%{
+		background: url(../img/index/top_artists/justin.jpg);
+		background-size:cover;
+	}
+	50%{
+		background: url(../img/index/top_artists/sherya.jpg);
+		background-size:cover;
+	}
+	60%{
+		background: url(../img/index/top_artists/lata.jpg);
+		background-size:cover;
+	}
+	70%{
+		background: url(../img/index/top_artists/sonu.jpg);
+		background-size:cover;
+	}
+	
+	80%{
+		background: url(../img/index/top_artists/arijit.jpg);
+		background-size:cover;
+	}
+	
+	90%{
+		background: url(../img/index/top_artists/kumar_shanu.jpg);
+		background-size:cover;	
+	}
+	100%{
+		background: url(../img/index/top_artists/kishor.jpg);
+		background-size:cover;
+	}
+
+}

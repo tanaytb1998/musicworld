@@ -1,0 +1,54 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+	header{
+	background-image:url('../img/about/cover.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+.clearfix:after{
+	content: ".";
+	visibility: hidden;
+	display: block;
+	height: 0px;
+	clear: both;
+}
+.logo{
+	height: 120px;
+	width: auto;
+	float: left;
+	margin-top: 20px;
+}
+.about-us{
+	font-size: 30ps;
+	position: absolute;
+	top: 50%;
+	right: -45%;
+}
+
+.main-nav{
+	float: right;
+	width: auto;
+	margin-top: 60px;
+}
+.main-nav li{
+
+}
+.main-nav li a{
+	color: rgb();
+	text-decoration: none;
+
+}
+.main-content-header{
+	width: 1180px;
+	position: absolute;
+	top: 50%;
+	right: -45%;
+
+	color: #FF0000;
+	text-decoration: none;
+}
